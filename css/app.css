@@ -1,0 +1,22 @@
+.running-balance{
+	font-style: italic;
+	font-family: serif;
+	margin-bottom: -20px;
+}
+
+.radio-withdraw{
+	color: #f00;
+	
+}
+.radio-deposit{
+	color: green;
+	
+}
+.no-image-txt{
+	color: #999;
+	font-style: italic;
+	font-family: serif;
+}
+.row div{
+	margin-top: 6px;
+}
